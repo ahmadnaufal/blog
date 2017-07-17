@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Akhirnya!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Akhir-akhir ini, melihat teman-teman saya yang sudah semakin getol menggunakan blog untuk bercerita, saya pun jadi tertarik untuk mengembalikan blog saya. Sebelumnya, sudah cukup banyak blog yang sudah saya buat dan ternyata tidak lama kemudian saya tinggalkan. Saya sendiri pun sudah lupa alamat mantan blog-blog saya. Mungkin sekarang sudah jadi kuburan massal post gak jelas, dan sudah banyak pembaca gaib yang mentertawakan tulisan yang ada di dalamnya.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Kali ini, dengan doktrinasi dari teman saya yang satu keilmuan tetapi beda kampus, saya mencoba menghidupkan blog saya di Github menggunakan Jekyll. Mengapa Jekyll? Entahlah, saya cuma iseng aja mencoba. Ya, hitung-hitung sekalian untuk eksplorasi juga. Sekilas info, page blog yang dibuat pake Github Pages + Jekyll ini ditulis menggunakan **Markdown**. Untuk membuat post juga simpel: tulis dalam bahasa Markdown saja. No CMS, no database. Static web page yang bisa ditambahkan post baru layaknya blog. Simpel kan? Atau malah gak ngerti apa yang saya tulis? Ya udah.
+
+Jadi, harapannya saya bisa terus mengisi blog recehan ini dengan curahan pikiran saya. Walaupun cerita saya nantinya tidak seindah dan semenarik teman-teman, setidaknya ada hal yang bisa dituliskan kan?
